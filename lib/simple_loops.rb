@@ -42,7 +42,7 @@ def return_string_array(array)
   
   new_array = []
   
-  while count <= array.length do
+  while count < array.length do
     new_array.push(array[count].to_s)
     count += 1 
   end
