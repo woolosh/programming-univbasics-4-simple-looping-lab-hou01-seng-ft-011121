@@ -38,7 +38,12 @@ end
 
 def return_string_array(array)
   
+  count = 0 
   
+  while array[count] do
+    puts array[count]
+    counter += 1 
+  end
   
 end
 
