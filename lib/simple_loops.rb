@@ -1,9 +1,6 @@
 # Write your methods here
 
-def loop_message_five_times
-  
- loop_message_five_times = ["Hello World."]
- puts loop_message_five_times
+.5 times do "Hello World."
   
 end
 
