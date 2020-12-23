@@ -2,7 +2,7 @@
 
 def loop_message_five_times
   
-  loop_message_five_times.length
+  message = ["Hello World", ]
   
 end
 
