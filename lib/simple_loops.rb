@@ -14,8 +14,6 @@ end
 
 def loop_message_n_times(message, number)
 
-  counter = 0 
-  
   message * number 
 
 end
