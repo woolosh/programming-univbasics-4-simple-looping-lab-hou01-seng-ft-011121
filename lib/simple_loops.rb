@@ -3,7 +3,7 @@
 def loop_message_five_times
   
 loop_message_five_times = ["Hello World."]
-  .5 times do
+  .5 times
   puts "Hello World."
   
 end
