@@ -2,7 +2,8 @@
 
 def loop_message_five_times
   
-  message = ["Hello World", ]
+  message = ["Hello World", "Hello World", "Hello World", "Hello World", "Hello World",]
+  output_array_elements (message)
   
 end
 
