@@ -2,8 +2,7 @@
 
 def loop_message_five_times
   
-  loop_message_five_times = ["Hello World."]
-  puts 5.times do
+ loop_message_five_times = ["Hello World.", ]
   
 end
 
