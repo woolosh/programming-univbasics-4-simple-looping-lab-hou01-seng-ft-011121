@@ -47,7 +47,7 @@ def return_string_array(array)
     count += 1 
   end
   
-  return new_array
+  new_array
   
 end
 
