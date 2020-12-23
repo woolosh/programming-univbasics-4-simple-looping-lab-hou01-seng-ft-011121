@@ -3,7 +3,7 @@
 def loop_message_five_times
   
   message = ["Hello World"]
-  puts message * 5
+ count message => 5
   
 end
 
