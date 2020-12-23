@@ -15,6 +15,11 @@ end
 def loop_message_n_times(message, number)
 
   message * number 
+  
+  message.messae.message.mgessage
+  
+  message
+  message
 
 end
 
