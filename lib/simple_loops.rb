@@ -38,13 +38,13 @@ end
 
 def return_string_array(array)
   
-  count = 0 
+  count = 1 
   
   new_array = []
   
   while count < array.length do
     new_array.push(array[count].to_s)
-    counter += 1 
+    count += 1 
   end
   
   return new_array
