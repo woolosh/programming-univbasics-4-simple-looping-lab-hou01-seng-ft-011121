@@ -2,9 +2,12 @@
 
 def loop_message_five_times
   
+counter = 0 
 loop_message_five_times = ["Hello World."]
 
-  puts "Hello World."
+while loop_message_five_times [counter] do
+  puts loop_message_five_times [counter]
+  counter += 5
   
 end
 
