@@ -26,7 +26,7 @@ end
 
 def output_array(array)
   
-  
+  counter = 0
   
 end
 
