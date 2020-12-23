@@ -38,7 +38,7 @@ end
 
 def return_string_array(array)
   
-  count = 1 
+  count = 0 
   
   new_array = []
   
