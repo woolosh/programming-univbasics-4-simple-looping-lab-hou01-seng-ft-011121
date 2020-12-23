@@ -2,8 +2,8 @@
 
 def loop_message_five_times
   
-  message = ["Hello World"]
- count (message) => 5
+  5.times do
+    
   
 end
 
