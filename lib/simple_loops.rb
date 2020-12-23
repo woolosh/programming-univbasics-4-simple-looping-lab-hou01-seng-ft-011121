@@ -1,6 +1,6 @@
 # Write your methods here
 
-.5 times do "Hello World."
+.5times do "Hello World."
   
 end
 
