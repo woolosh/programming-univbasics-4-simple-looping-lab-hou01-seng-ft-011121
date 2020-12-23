@@ -1,10 +1,8 @@
 # Write your methods here
-require 'pry'
 
 def loop_message_five_times
   
   loop_message_five_times.length
-  binding.pry
   
 end
 
