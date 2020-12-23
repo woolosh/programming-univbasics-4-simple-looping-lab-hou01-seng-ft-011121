@@ -2,7 +2,7 @@
 
 def loop_message_five_times
   
-  puts ("Hello World." * 5)
+  loop_message_five_times.length
   
 end
 
